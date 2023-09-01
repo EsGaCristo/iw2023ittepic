@@ -2,3 +2,5 @@
 privado.txt 
 #ignorar carpeta privado 
 privado/
+.README.md.swp
+
