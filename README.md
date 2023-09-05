@@ -1,31 +1,31 @@
 # iw2023ittepic
- echo "# iw2023ittepic" >> README.md
- git init
- git add README.md
- git commit -m "first commmit"
- git branch -M master
- git remote add origin https://github.com/EsGaCristo/iw2023ittepic.git
- git push -u origin master
+ echo "# iw2023ittepic" >> README.md \n
+ git init \n
+ git add README.md \n
+ git commit -m "first commmit" \n 
+ git branch -M master \n
+ git remote add origin https://github.com/EsGaCristo/iw2023ittepic.git \n
+ git push -u origin master \n
 
-# git commit -m "initial commit"
- echo "" >> privado.txt
- mkdir privado/
- echo "#ignorar privado.txt \nprivado.txt \n#ignorar carpeta privado \nprivado/ \n.README.md.swp" >> .gitignore
- echo "" >> 1.txt
- git tag -a v1.1 -m "primera tag"
+# git commit -m "initial commit" \n
+ echo "" >> privado.txt \n
+ mkdir privado/ \n
+ echo "#ignorar privado.txt \nprivado.txt \n#ignorar carpeta privado \nprivado/ \n.README.md.swp" >> .gitignore \n
+ echo "" >> 1.txt \n
+ git tag -a v1.1 -m "primera tag" \n
 
-# [Subir cambios al repositorio]
- git commit -m "Commit para subir cambios de textos"
- git add .
- git push -u origin master
+# [Subir cambios al repositorio] \n
+ git commit -m "Commit para subir cambios de textos" \n
+ git add . \n
+ git push -u origin master \n
 
-# [Subir imagenes]
- git commit -m "Subir imagenes"
- git add .
+# [Subir imagenes] \n
+ git commit -m "Subir imagenes" \n
+ git add . \n
 
 
 
-# Agregamos capturas de imagen, 2step
+# Agregamos capturas de imagen, 2step \n
 
 ![Imagen de foto nueva](https://github.com/EsGaCristo/iw2023ittepic/blob/af4a3e8c40d976c264b108f13e14318c0005cf8d/assets/2step.png)
 ![Imagen de verificacion](https://github.com/EsGaCristo/iw2023ittepic/blob/af4a3e8c40d976c264b108f13e14318c0005cf8d/assets/cambioFoto.png)
@@ -35,7 +35,7 @@
  git commit -m "Modificacion de README"
  git push -u origin master
 
-# tabla
+# tabla \n
 | Nombre | Github|
 | ------ | ----- |
 | Calvario | https://github.com/JoseCalvario8 |
